@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\BitCoinConverter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b49f79c51d35de9c11141f6167b6e092c9efb57">
+        <dex dex="E:\Android\BitCoinConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_171c78d4c48163a85498741d3879ffad4cc0f4eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\BitCoinConverter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\BitCoinConverter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6d8451e479a22269a90f6c23617609459f762744\classes.dex" />
+    </item>
+
+</items>

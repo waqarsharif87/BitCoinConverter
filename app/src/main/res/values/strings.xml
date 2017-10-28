@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BitCoin Converter</string>
+    <string name="convert">Convert</string>
+    <string name="bitcoin_converter">BitCoin Converter</string>
+
+    <string-array name="currencies_list">
+        <item>USD</item>
+        <item>GBP</item>
+        <item>JPY</item>
+    </string-array>
+
+    <string-array name="btc_list">
+        <item>BTC</item>
+    </string-array>
+</resources>
